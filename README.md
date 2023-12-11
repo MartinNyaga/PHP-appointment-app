@@ -42,6 +42,12 @@ Before you begin, make sure you have the following installed on your machine:
 
 The application uses SQLite as its database. The database file (app.db).
 
+### Screenshots 
+
+- Homepage 
+
+  <img src="./images/Screenshot.png" alt="screenshot" />
+
 ###  Contribution
 
 If you'd like to contribute to this project, please follow these steps:

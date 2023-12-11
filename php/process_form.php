@@ -29,7 +29,8 @@ try {
     // Execute the statement
     $stmt->execute();
 
-    echo "Form submitted successfully!";
+    header('Location: ../index.html');
+    exit();
 } catch (PDOException $e) {
     echo "Error: " . $e->getMessage();
 }
