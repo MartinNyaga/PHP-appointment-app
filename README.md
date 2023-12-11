@@ -48,6 +48,10 @@ The application uses SQLite as its database. The database file (app.db).
 
   <img src="./images/Screenshot.png" alt="screenshot" />
 
+- Updating Record 
+
+  <img src="./images/Update.png" alt="screenshot" />
+
 ###  Contribution
 
 If you'd like to contribute to this project, please follow these steps:

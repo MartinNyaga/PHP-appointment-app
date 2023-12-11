@@ -89,3 +89,8 @@ th {
 .delete-button:hover {
     background-color: #ff4d4d; /* Darker red  */
 }
+
+
+.update-button{
+    background-color: green;
+}
